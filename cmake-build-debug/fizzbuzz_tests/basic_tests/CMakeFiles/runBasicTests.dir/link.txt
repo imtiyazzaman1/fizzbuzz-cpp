@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/runBasicTests.dir/test.cpp.o  -o runBasicTests ../../lib/libgtestd.a ../../lib/libgtest_maind.a ../../fizzbuzz_lib/libfizzbuzz_lib.a ../../lib/libgtestd.a 
